@@ -2,8 +2,9 @@
 This is a code for reproducing the results in "Non-Negative Bregman Divergence Minimization for Deep Direct Density Ratio Estimation."
 
 ### Dependency
-- torch Version: 1.3.1
-- sklearn Version: 0.21.3
+- torch: 1.4.0
+- sklearn: 0.22.2
+- densratio: 0.2.2 
 
 ## Section 5: Experiment with Image Data
 The reproducing codes are in "NumericalExperiments" folder.
