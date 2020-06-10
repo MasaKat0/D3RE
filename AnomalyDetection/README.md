@@ -2,12 +2,16 @@
 This repository provides a code for reproducing the results of Section 6.1.  
 Some parts of the code are copied from repositories for [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch) and [GT](https://github.com/izikgo/AnomalyDetectionTransformations).
 
+We reproduce the expriments by the following codes.
 ```bash
-python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'satimage'
-python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'vehicle'
-python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'pendigits'
+D3RE_uLSIF.sh
+bash D3RE_nnLSIF.sh
+bash D3RE_nnPU.sh
+bash D3RE_nnLSIF_wrn.sh
+bash D3RE_nnPU_wrn.sh
+bash DeepSAD.sh
+bash GT.sh
 ```
-
 ------------------------------------------------------------------------------------------------
 
 #### The MIT License of [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch).
