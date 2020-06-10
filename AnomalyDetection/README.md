@@ -2,7 +2,11 @@
 This repository provides a code for reproducing the results of Section 6.1.  
 Some parts of the code are copied from repositories for [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch) and [GT](https://github.com/izikgo/AnomalyDetectionTransformations).
 
-
+```bash
+python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'satimage'
+python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'vehicle'
+python cs_ope/cs_ope/experiments/experiment_evaluation.py -p 'pendigits'
+```
 
 ------------------------------------------------------------------------------------------------
 
