@@ -1,5 +1,5 @@
 # D3RE
-This is a code for reproducing the results in "Non-Negative Bregman Divergence Minimization\\ for Deep Direct Density Ratio Estimation".
+This is a code for reproducing the results in "Non-Negative Bregman Divergence Minimization for Deep Direct Density Ratio Estimation."
 
 ### Dependency
 - torch Version: 1.3.1
