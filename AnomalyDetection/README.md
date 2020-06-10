@@ -1,9 +1,10 @@
 # Inlier-based Outlier Detection
 This repository provides a code for reproducing the results of Section 6.1.  
-The codes are copied from repositories for [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch) and [GT](https://github.com/izikgo/AnomalyDetectionTransformations).
+Some parts of the code are copied from repositories for [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch) and [GT](https://github.com/izikgo/AnomalyDetectionTransformations).
 
 
 
+------------------------------------------------------------------------------------------------
 
 #### The MIT License of [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch).
 
