@@ -4,13 +4,13 @@ Some parts of the code are copied from repositories for [Deep SAD](https://githu
 
 We reproduce the expriments by the following codes.
 ```bash
-bash D3RE_uLSIF.sh
-bash D3RE_nnLSIF.sh
-bash D3RE_nnPU.sh
-bash D3RE_nnLSIF_wrn.sh
-bash D3RE_nnPU_wrn.sh
-bash DeepSAD.sh
-bash GT.sh
+bash src/D3RE_uLSIF.sh
+bash src/D3RE_nnLSIF.sh
+bash src/D3RE_nnPU.sh
+bash src/D3RE_nnLSIF_wrn.sh
+bash src/D3RE_nnPU_wrn.sh
+bash src/DeepSAD.sh
+bash src/GT.sh
 ```
 ------------------------------------------------------------------------------------------------
 
