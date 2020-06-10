@@ -4,7 +4,7 @@ Some parts of the code are copied from repositories for [Deep SAD](https://githu
 
 We reproduce the expriments by the following codes.
 ```bash
-D3RE_uLSIF.sh
+bash D3RE_uLSIF.sh
 bash D3RE_nnLSIF.sh
 bash D3RE_nnPU.sh
 bash D3RE_nnLSIF_wrn.sh
